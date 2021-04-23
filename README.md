@@ -10,6 +10,12 @@
 ### Affiliation  
 - Information Science College  
 - IPfactory(information technology circle)  
+### Areas of Interest  
+- Penetration Test  
+  - Hack The Box Rank:Hacker  
+  - Try Hack Me Rank:Hacker  
+- CTF(Pwn)
+- Self-made OS
 ### Programming Language  
 - C/C++  
 - Python  
