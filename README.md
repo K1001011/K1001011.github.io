@@ -12,8 +12,8 @@
 - IPfactory(information technology circle)  
 ### Areas of Interest  
 - Penetration Test  
-  - Hack The Box Rank:Hacker  
-  - Try Hack Me Rank:Hacker  
+  - Hack The Box (Hacker)  
+  - Try Hack Me (Hacker)  
 - CTF(Pwn)
 - Self-made OS
 ### Programming Language  
