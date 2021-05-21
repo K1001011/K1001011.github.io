@@ -13,7 +13,7 @@
 ### Areas of Interest  
 - Penetration Test  
   - Hack The Box (Hacker)  
-  - Try Hack Me (Hacker)  
+  - Try Hack Me (Omni)  
 - CTF(Pwn)
 - Self-made OS
 ### Programming Language  
