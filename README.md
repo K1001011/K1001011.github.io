@@ -15,9 +15,11 @@
   - Hack The Box (Hacker)  
   - Try Hack Me (Omni)  
 - CTF(Pwn)
-- Self-made OS
+- Self-made OS  
+- Blockchain
 ### Programming Language  
 - C/C++  
+- C#
 - Python  
 ### Qualification  
 - ITパスポート  
