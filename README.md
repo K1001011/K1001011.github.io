@@ -15,7 +15,6 @@
   - Hack The Box (ProHacker)  
 - CTF(Pwn)
 - Self-made OS  
-- Blockchain
 ### Programming Language  
 - C/C++  
 - C#
@@ -25,6 +24,7 @@
 - 基本情報技術者試験
 ### Events  
 - Security Camp 2020  
+- Code Blue 2021 student staff
 ## Links
 - [Twitter](https://twitter.com/K_1001011)  
 - [GitHub](https://github.com/K1001011)  
