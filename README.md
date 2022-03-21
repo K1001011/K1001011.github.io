@@ -10,6 +10,9 @@
 ### Affiliation  
 - Information Science College  
 - IPfactory(information technology circle)  
+### Job
+- Security Engineer
+  - Web (Internships)
 ### Areas of Interest  
 - Penetration Test  
   - Hack The Box (ProHacker)  
