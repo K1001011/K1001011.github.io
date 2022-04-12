@@ -1,5 +1,5 @@
 # About K  
-## Contents
+## Contents  
 - [Profiles](#profiles)
 - [Link](#links)
 ## Profiles  
@@ -10,20 +10,17 @@
 ### Affiliation  
 - Information Science College  
 - IPfactory(information technology circle)  
-### Job
-- Security Engineer  
-  - Web (Internships)
-### test
+### Job  
 ### Programming Language  
 - C/C++  
-- C#
+- C#  
 - Python  
 ### Qualification  
 - ITパスポート  
-- 基本情報技術者試験
+- 基本情報技術者試験  
 ### Events  
 - Security Camp 2020  
-- Code Blue 2021 student staff
-## Links
+- Code Blue 2021 student staff  
+## Links  
 - [Twitter](https://twitter.com/K_1001011)  
 - [GitHub](https://github.com/K1001011)  
