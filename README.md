@@ -13,7 +13,7 @@
 ### Job  
 - Security Engineer  
   - Web (Internships)  
-- test  
+
 ### Areas of Interest  
 - Penetration Test  
   - Hack The Box (ProHacker)  
