@@ -13,9 +13,7 @@
 ### Job
 - Security Engineer  
   - Web (Internships)
-### Job
-- Security Engineer  
-  - Web (Internships)
+### test
 ### Programming Language  
 - C/C++  
 - C#
