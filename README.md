@@ -11,6 +11,13 @@
 - Information Science College  
 - IPfactory(information technology circle)  
 ### Job  
+- Security Engineer  
+  - Web (Internships)  
+### Areas of Interest  
+- Penetration Test  
+  - Hack The Box (ProHacker)  
+- CTF(Pwn)  
+- Self-made OS  
 ### Programming Language  
 - C/C++  
 - C#  
