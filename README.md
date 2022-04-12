@@ -13,11 +13,9 @@
 ### Job
 - Security Engineer  
   - Web (Internships)
-### Areas of Interest  
-- Penetration Test  
-  - Hack The Box (ProHacker)  
-- CTF(Pwn)
-- Self-made OS  
+### Job
+- Security Engineer  
+  - Web (Internships)
 ### Programming Language  
 - C/C++  
 - C#
